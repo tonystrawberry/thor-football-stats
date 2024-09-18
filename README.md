@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://dashboard.api-football.com/soccer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChb7X83AYig_XPdP8hWbS8aGNOfRuqSSdSw&s" width="60" />
+    <img src="https://cdn4.iconfinder.com/data/icons/white-sportsman/512/sport_avatar_man_boy-01-1024.png" width="60" />
   </a>
 </p>
 <h1 align="center">
